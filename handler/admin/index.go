@@ -40,3 +40,19 @@ func IsLoginHandler(ctx *modules.Context) {
 	}
 	return
 }
+
+func ListsHandler(ctx *modules.Context) {
+
+}
+
+func AddHandler(ctx *modules.Context)  {
+
+}
+
+func PowerHandler(ctx *modules.Context)  {
+
+}
+
+func ClassiFicationHandler(ctx *modules.Context) {
+
+}
