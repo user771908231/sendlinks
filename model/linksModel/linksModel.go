@@ -8,6 +8,6 @@ import (
 type Links struct {
 	ObjId 	bson.ObjectId		`bson:"_id"`
 	Id 		uint32
-	LinkName	string	//链接
+	LinkName	string			//链接
 	Groupings	bson.ObjectId	//分组
 }
